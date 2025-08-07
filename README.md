@@ -1,9 +1,13 @@
 # KodeKloud
 🎓 Formations KodeKloud & Certifications Kubernetes
 Ce repository recense les exercices et pratiques issus de mes formations suivies sur KodeKloud.
+
 🚀 En cours de participation :
+
 CKA (Certified Kubernetes Administrator)
+
 CKAD (Certified Kubernetes Application Developer)
+
 CKS (Certified Kubernetes Security Specialist)
 
 <img width="1168" height="827" alt="image" src="https://github.com/user-attachments/assets/fc03c3f6-9e5e-46cb-8d46-41440f32d79b" />

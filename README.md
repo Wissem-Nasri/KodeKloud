@@ -1,5 +1,6 @@
 # KodeKloud
-🎓 Formations Kubernetes – KodeKloud
+🎓 Formations – KodeKloud
+
 Ce repository contient le suivi de ma participation active à plusieurs formations sur KodeKloud, incluant à la fois les cours théoriques et les labs pratiques.
 
 <img width="1168" height="827" alt="image" src="https://github.com/user-attachments/assets/fc03c3f6-9e5e-46cb-8d46-41440f32d79b" />
